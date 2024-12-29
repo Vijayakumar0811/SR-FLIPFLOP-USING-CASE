@@ -1,5 +1,11 @@
 # SR-FLIPFLOP-USING-CASE
 
+**EXP6:SR-FLIPFLOP**
+
+NAME: VIJAYAKUMAR.S
+
+REG NO: 24900562
+
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
